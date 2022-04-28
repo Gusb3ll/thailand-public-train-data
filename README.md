@@ -10,4 +10,4 @@
 
 ![img](https://cdn.upload.systems/uploads/VAXD2jIr.jpg)
 
-Find it on [Kaggle](https://www.kaggle.com/datasets/gusbell/thailand-public-train-data-bangkok-areahttps://github.com/Gusb3ll/thailand-public-train-data/)
+Find it on [Kaggle](https://www.kaggle.com/datasets/gusbell/thailand-public-train-data-bangkok-area)
