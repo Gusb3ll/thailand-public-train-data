@@ -1,0 +1,65 @@
+[
+  {
+    "id": "1",
+    "name": "แอร์พอร์ต เรล ลิงก์",
+    "nameEng": "Airport Rail Link",
+    "lineColorHex": "#0332F8",
+    "service": "AIRPORTLINK"
+  },
+  {
+    "id": "2",
+    "name": "สายสีแดงเข้ม",
+    "nameEng": "Dark Red Line",
+    "lineColorHex": "#B50300",
+    "service": "SRT"
+  },
+  {
+    "id": "3",
+    "name": "สายสีแดงอ่อน",
+    "nameEng": "Light Red Line",
+    "lineColorHex": "#F47C7A",
+    "service": "SRT"
+  },
+  {
+    "id": "4",
+    "name": "สายสุขุมวิท",
+    "nameEng": "Sukhumvit Line",
+    "lineColorHex": "#92D04E",
+    "service": "BTS"
+  },
+  {
+    "id": "5",
+    "name": "CEN",
+    "nameEng": "CEN",
+    "lineColorHex": "",
+    "service": "BTS"
+  },
+  {
+    "id": "6",
+    "name": "สายสีลม",
+    "nameEng": "Silom Line",
+    "lineColorHex": "#007D38",
+    "service": "BTS"
+  },
+  {
+    "id": "7",
+    "name": "สายสีทอง",
+    "nameEng": "Gold Line",
+    "lineColorHex": "#BA9006",
+    "service": "BTS"
+  },
+  {
+    "id": "8",
+    "name": "สายสีน้ำเงิน",
+    "nameEng": "Blue Line",
+    "lineColorHex": "#7D80F3",
+    "service": "MRT"
+  },
+  {
+    "id": "9",
+    "name": "สายสีม่วง",
+    "nameEng": "Purple Line",
+    "lineColorHex": "#6D2EA0",
+    "service": "MRT"
+  }
+]
