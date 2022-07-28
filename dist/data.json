@@ -12,6 +12,17 @@
     },
     {
         "stationId": "A2",
+        "name": "ลาดกระบัง",
+        "nameEng": "Lat Krabang",
+        "geoLat": "13.727821743748192",
+        "geoLng": "100.74736600578052",
+        "lineName": "แอร์พอร์ต เรล ลิงก์",
+        "lineNameEng": "Airport Rail Link",
+        "lineColorHex": "#0332F8",
+        "lineServiceName": "AIRPORTLINK"
+    },
+    {
+        "stationId": "A3",
         "name": "บ้านทับช้าง",
         "nameEng": "Ban Thap Chang",
         "geoLat": "13.732814119012762",
@@ -22,7 +33,18 @@
         "lineServiceName": "AIRPORTLINK"
     },
     {
-        "stationId": "A3",
+        "stationId": "A4",
+        "name": "หัวหมาก",
+        "nameEng": "Hua Mak",
+        "geoLat": "13.73803476768113",
+        "geoLng": "100.64517337833085",
+        "lineName": "แอร์พอร์ต เรล ลิงก์",
+        "lineNameEng": "Airport Rail Link",
+        "lineColorHex": "#0332F8",
+        "lineServiceName": "AIRPORTLINK"
+    },
+    {
+        "stationId": "A5",
         "name": "รามคำแหง",
         "nameEng": "Ramkhamhaeng",
         "geoLat": "13.743032742356274",
@@ -33,7 +55,7 @@
         "lineServiceName": "AIRPORTLINK"
     },
     {
-        "stationId": "A4",
+        "stationId": "A6",
         "name": "มักกะสัน",
         "nameEng": "Makkasan",
         "geoLat": "13.751188237864156",
@@ -44,7 +66,7 @@
         "lineServiceName": "AIRPORTLINK"
     },
     {
-        "stationId": "A5",
+        "stationId": "A7",
         "name": "ราชปรารภ",
         "nameEng": "Ratchaprarop",
         "geoLat": "13.755199349761293",
@@ -55,7 +77,7 @@
         "lineServiceName": "AIRPORTLINK"
     },
     {
-        "stationId": "A6",
+        "stationId": "A8",
         "name": "พญาไท",
         "nameEng": "Phaya Thai",
         "geoLat": "13.75676690283936",
