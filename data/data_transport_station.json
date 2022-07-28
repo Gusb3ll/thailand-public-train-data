@@ -10,6 +10,15 @@
   },
   {
     "stationId": "A2",
+    "name": "ลาดกระบัง",
+    "nameEng": "Lat Krabang",
+    "transportationId": "1",
+    "subdistrictId": "",
+    "geoLat": "13.727821743748192",
+    "geoLng": "100.74736600578052"
+  },
+  {
+    "stationId": "A3",
     "name": "บ้านทับช้าง",
     "nameEng": "Ban Thap Chang",
     "transportationId": "1",
@@ -18,7 +27,16 @@
     "geoLng": "100.69131829068533"
   },
   {
-    "stationId": "A3",
+    "stationId": "A4",
+    "name": "หัวหมาก",
+    "nameEng": "Hua Mak",
+    "transportationId": "1",
+    "subdistrictId": "",
+    "geoLat": "13.73803476768113",
+    "geoLng": "100.64517337833085"
+  },
+  {
+    "stationId": "A5",
     "name": "รามคำแหง",
     "nameEng": "Ramkhamhaeng",
     "transportationId": "1",
@@ -27,7 +45,7 @@
     "geoLng": "100.60015057327637"
   },
   {
-    "stationId": "A4",
+    "stationId": "A6",
     "name": "มักกะสัน",
     "nameEng": "Makkasan",
     "transportationId": "1",
@@ -36,7 +54,7 @@
     "geoLng": "100.56075394308388"
   },
   {
-    "stationId": "A5",
+    "stationId": "A7",
     "name": "ราชปรารภ",
     "nameEng": "Ratchaprarop",
     "transportationId": "1",
@@ -45,7 +63,7 @@
     "geoLng": "100.54212229725891"
   },
   {
-    "stationId": "A6",
+    "stationId": "A8",
     "name": "พญาไท",
     "nameEng": "Phaya Thai",
     "transportationId": "1",
