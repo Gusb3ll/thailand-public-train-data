@@ -1,0 +1,209 @@
+[
+  {
+    "stationId": "E1",
+    "name": "ชิดลม",
+    "nameEng": "Chit Lom",
+    "transportationId": "4",
+    "subdistrictId": "100704",
+    "geoLat": "13.744217959750484",
+    "geoLng": "100.54304612550327"
+  },
+  {
+    "stationId": "E2",
+    "name": "เพลินจิต",
+    "nameEng": "Phioen Chit",
+    "transportationId": "4",
+    "subdistrictId": "100704",
+    "geoLat": "13.743127851312238",
+    "geoLng": "100.54892028938575"
+  },
+  {
+    "stationId": "E3",
+    "name": "นานา",
+    "nameEng": "Nana",
+    "transportationId": "4",
+    "subdistrictId": "103901",
+    "geoLat": "13.74065792367767",
+    "geoLng": "100.55539554457523"
+  },
+  {
+    "stationId": "E4",
+    "name": "อโศก",
+    "nameEng": "Asok",
+    "transportationId": "4",
+    "subdistrictId": "101702",
+    "geoLat": "13.737260198155443",
+    "geoLng": "100.5603185300622"
+  },
+  {
+    "stationId": "E5",
+    "name": "พร้อมพงษ์",
+    "nameEng": "Phrom Phong",
+    "transportationId": "4",
+    "subdistrictId": "103302",
+    "geoLat": "13.730517783678884",
+    "geoLng": "100.56972010453384"
+  },
+  {
+    "stationId": "E6",
+    "name": "ทองหล่อ",
+    "nameEng": "Thong Lo",
+    "transportationId": "4",
+    "subdistrictId": "103303",
+    "geoLat": "13.724318068456554",
+    "geoLng": "100.57841664529883"
+  },
+  {
+    "stationId": "E7",
+    "name": "เอกมัย",
+    "nameEng": "EkKamai",
+    "transportationId": "4",
+    "subdistrictId": "103303",
+    "geoLat": "13.719681131142204",
+    "geoLng": "100.58508956878921"
+  },
+  {
+    "stationId": "E8",
+    "name": "พระโขนง",
+    "nameEng": "Phra Khanong",
+    "transportationId": "4",
+    "subdistrictId": "103303",
+    "geoLat": "13.71526749657004",
+    "geoLng": "100.59124906878925"
+  },
+  {
+    "stationId": "E9",
+    "name": "อ่อนนุช",
+    "nameEng": "On Nut",
+    "transportationId": "4",
+    "subdistrictId": "103303",
+    "geoLat": "13.705801907627764",
+    "geoLng": "100.60100615404555"
+  },
+  {
+    "stationId": "E10",
+    "name": "บางจาก",
+    "nameEng": "Bang Chak",
+    "transportationId": "4",
+    "subdistrictId": "100905",
+    "geoLat": "13.696909391258025",
+    "geoLng": "100.60531167308088"
+  },
+  {
+    "stationId": "E11",
+    "name": "ปุณณวิถี",
+    "nameEng": "Punnawithi",
+    "transportationId": "4",
+    "subdistrictId": "100905",
+    "geoLat": "13.689579712143523",
+    "geoLng": "100.60897626878906"
+  },
+  {
+    "stationId": "E12",
+    "name": "อุดมสุข",
+    "nameEng": "Udom Suk",
+    "transportationId": "4",
+    "subdistrictId": "104703",
+    "geoLat": "13.6802523063441",
+    "geoLng": "100.60970742645968"
+  },
+  {
+    "stationId": "E13",
+    "name": "บางนา",
+    "nameEng": "Bang Na",
+    "transportationId": "4",
+    "subdistrictId": "104703",
+    "geoLat": "13.66829179589722",
+    "geoLng": "100.60465958079922"
+  },
+  {
+    "stationId": "E14",
+    "name": "เเบริ่ง",
+    "nameEng": "Bearing",
+    "transportationId": "4",
+    "subdistrictId": "104703",
+    "geoLat": "13.661404213521596",
+    "geoLng": "100.60177703315702"
+  },
+  {
+    "stationId": "E15",
+    "name": "สำโรง",
+    "nameEng": "Samrong",
+    "transportationId": "4",
+    "subdistrictId": "110102",
+    "geoLat": "13.646424276382273",
+    "geoLng": "100.59563885187976"
+  },
+  {
+    "stationId": "E16",
+    "name": "ปู่เจ้า",
+    "nameEng": "Pu Chao",
+    "transportationId": "4",
+    "subdistrictId": "110115",
+    "geoLat": "13.637366374405593",
+    "geoLng": "100.59195412328135"
+  },
+  {
+    "stationId": "E17",
+    "name": "ช้างเอราวัณ",
+    "nameEng": "Chang Erawan",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.621747404455762",
+    "geoLng": "100.59012321111798"
+  },
+  {
+    "stationId": "E18",
+    "name": "โรงเรียนนายเรือ",
+    "nameEng": "Royal Thai Naval Academy",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.60857122198038",
+    "geoLng": "100.5949813375639"
+  },
+  {
+    "stationId": "E19",
+    "name": "ปากน้ำ",
+    "nameEng": "Pak Nam",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.602193582628065",
+    "geoLng": "100.59710814762467"
+  },
+  {
+    "stationId": "E20",
+    "name": "ศรีนครินทร์",
+    "nameEng": "Srinagarindra",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.592214559033803",
+    "geoLng": "100.60893818412991"
+  },
+  {
+    "stationId": "E21",
+    "name": "เเพรกษา",
+    "nameEng": "Phraek Sa",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.58450127824605",
+    "geoLng": "100.60801626878843"
+  },
+  {
+    "stationId": "E22",
+    "name": "สายลวด",
+    "nameEng": "Sai Luat",
+    "transportationId": "4",
+    "subdistrictId": "110101",
+    "geoLat": "13.577814638285",
+    "geoLng": "100.60537062645916"
+  },
+  {
+    "stationId": "E23",
+    "name": "เคหะฯ",
+    "nameEng": "Kheha",
+    "transportationId": "4",
+    "subdistrictId": "110116",
+    "geoLat": "13.56804330854503",
+    "geoLng": "100.60771318412975"
+  }
+]

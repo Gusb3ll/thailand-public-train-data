@@ -1,0 +1,209 @@
+[
+  {
+    "stationId": "N1",
+    "name": "ราชเทวี",
+    "nameEng": "Ratchathewi",
+    "transportationId": "4",
+    "subdistrictId": "103703",
+    "geoLat": "13.752248022189246",
+    "geoLng": "100.53156656878942"
+  },
+  {
+    "stationId": "N2",
+    "name": "พญาไท",
+    "nameEng": "Phaya Thai",
+    "transportationId": "4",
+    "subdistrictId": "103702",
+    "geoLat": "13.756745632860385",
+    "geoLng": "100.53365402461276"
+  },
+  {
+    "stationId": "N3",
+    "name": "อนุสาวรีย์ชัยสมรภูมิ",
+    "nameEng": "Victory Monument",
+    "transportationId": "4",
+    "subdistrictId": "103702",
+    "geoLat": "13.762938881452484",
+    "geoLng": "100.53711718413088"
+  },
+  {
+    "stationId": "N4",
+    "name": "สนามเป้า",
+    "nameEng": "Sanam Pao",
+    "transportationId": "4",
+    "subdistrictId": "101401",
+    "geoLat": "13.772850397420301",
+    "geoLng": "100.54204935344816"
+  },
+  {
+    "stationId": "N5",
+    "name": "อารีย์",
+    "nameEng": "Ari",
+    "transportationId": "4",
+    "subdistrictId": "101401",
+    "geoLat": "13.780301866846923",
+    "geoLng": "100.54461132717519"
+  },
+  {
+    "stationId": "N7",
+    "name": "สะพานควาย",
+    "nameEng": "Saphan Khwai",
+    "transportationId": "4",
+    "subdistrictId": "101401",
+    "geoLat": "13.793880903855163",
+    "geoLng": "100.54976314180179"
+  },
+  {
+    "stationId": "N8",
+    "name": "หมอชิต",
+    "nameEng": "Mo Chit",
+    "transportationId": "4",
+    "subdistrictId": "103004",
+    "geoLat": "13.802504289971855",
+    "geoLng": "100.55382026878978"
+  },
+  {
+    "stationId": "N9",
+    "name": "ห้าเเยกลาดพร้าว",
+    "nameEng": "Ha Yaek Lat Phrao",
+    "transportationId": "4",
+    "subdistrictId": "103005",
+    "geoLat": "13.816606684692351",
+    "geoLng": "100.56185343810698"
+  },
+  {
+    "stationId": "N10",
+    "name": "พหลโยธิน 24",
+    "nameEng": "Phahon Yothin 24",
+    "transportationId": "4",
+    "subdistrictId": "103005",
+    "geoLat": "13.824269605653896",
+    "geoLng": "100.56646043840226"
+  },
+  {
+    "stationId": "N11",
+    "name": "รัชโยธิน",
+    "nameEng": "Ratchayothin",
+    "transportationId": "4",
+    "subdistrictId": "103001",
+    "geoLat": "13.830174955700329",
+    "geoLng": "100.5698014724847"
+  },
+  {
+    "stationId": "N12",
+    "name": "เสนานิคม",
+    "nameEng": "Sena Nikhom",
+    "transportationId": "4",
+    "subdistrictId": "103001",
+    "geoLat": "13.836599692951639",
+    "geoLng": "100.57356798228393"
+  },
+  {
+    "stationId": "N13",
+    "name": "มหาวิทยาลัยเกษตรศาสตร์",
+    "nameEng": "Kasetsart University",
+    "transportationId": "4",
+    "subdistrictId": "103001",
+    "geoLat": "13.842610704000288",
+    "geoLng": "100.57715337063749"
+  },
+  {
+    "stationId": "N14",
+    "name": "กรมป่าไม้",
+    "nameEng": "Royal Forest Department",
+    "transportationId": "4",
+    "subdistrictId": "103001",
+    "geoLat": "13.850616795379002",
+    "geoLng": "100.58178508208272"
+  },
+  {
+    "stationId": "N15",
+    "name": "บางบัว",
+    "nameEng": "Bang Bua",
+    "transportationId": "4",
+    "subdistrictId": "103001",
+    "geoLat": "13.856254412257238",
+    "geoLng": "100.5851914221753"
+  },
+  {
+    "stationId": "N16",
+    "name": "กรมทหารราบที่ 11",
+    "nameEng": "11th Infantry Regiment",
+    "transportationId": "4",
+    "subdistrictId": "100502",
+    "geoLat": "13.867694648034218",
+    "geoLng": "100.59197218393615"
+  },
+  {
+    "stationId": "N17",
+    "name": "วัดพระศรีมหาธาตุ",
+    "nameEng": "Wat Phra Sri Mahathat",
+    "transportationId": "4",
+    "subdistrictId": "100502",
+    "geoLat": "13.870874893672559",
+    "geoLng": "100.59362743975532"
+  },
+  {
+    "stationId": "N18",
+    "name": "พหลโยธิน 59",
+    "nameEng": "Phahon Yothin 59",
+    "transportationId": "4",
+    "subdistrictId": "100502",
+    "geoLat": "13.88431056682685",
+    "geoLng": "100.60186565510014"
+  },
+  {
+    "stationId": "N19",
+    "name": "สายหยุด",
+    "nameEng": "Sai Yud",
+    "transportationId": "4",
+    "subdistrictId": "100502",
+    "geoLat": "13.888712784667977",
+    "geoLng": "100.60429199742786"
+  },
+  {
+    "stationId": "N20",
+    "name": "สะพานใหม่",
+    "nameEng": "Saphan Mai",
+    "transportationId": "4",
+    "subdistrictId": "100502",
+    "geoLat": "13.896956992745794",
+    "geoLng": "100.60905955793811"
+  },
+  {
+    "stationId": "N21",
+    "name": "โรงพยาบาลภูมิพลอดุลยเดช",
+    "nameEng": "Bhumibol Adulyadej Hospital",
+    "transportationId": "4",
+    "subdistrictId": "103605",
+    "geoLat": "13.910392988904585",
+    "geoLng": "100.61740475695369"
+  },
+  {
+    "stationId": "N22",
+    "name": "พิพิธภัณฑ์กองทัพอากาศ",
+    "nameEng": "Royal Thai Air Force Museum",
+    "transportationId": "4",
+    "subdistrictId": "103605",
+    "geoLat": "13.918122025575327",
+    "geoLng": "100.62176864160907"
+  },
+  {
+    "stationId": "N23",
+    "name": "แยก คปอ.",
+    "nameEng": "Yaek Kor Por Aor",
+    "transportationId": "4",
+    "subdistrictId": "103605",
+    "geoLat": "13.922528836360181",
+    "geoLng": "100.624499950081"
+  },
+  {
+    "stationId": "N24",
+    "name": "คูคต",
+    "nameEng": "Khu Khot",
+    "transportationId": "4",
+    "subdistrictId": "130601",
+    "geoLat": "13.932436493523184",
+    "geoLng": "100.6466589000598"
+  }
+]

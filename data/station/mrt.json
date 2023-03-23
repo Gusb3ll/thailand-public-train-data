@@ -1,0 +1,488 @@
+[
+  {
+    "stationId": "BL01",
+    "name": "ท่าพระ",
+    "nameEng": "Tha Phra",
+    "transportationId": "8",
+    "subdistrictId": "101602",
+    "geoLat": "13.729722983478364",
+    "geoLng": "100.4742004448221"
+  },
+  {
+    "stationId": "BL02",
+    "name": "จรัญฯ 13",
+    "nameEng": "Charan 13",
+    "transportationId": "8",
+    "subdistrictId": "101602",
+    "geoLat": "13.739730055636807",
+    "geoLng": "100.47075309559493"
+  },
+  {
+    "stationId": "BL03",
+    "name": "ไฟฉาย",
+    "nameEng": "Fai Chai",
+    "transportationId": "8",
+    "subdistrictId": "102005",
+    "geoLat": "13.755142104744786",
+    "geoLng": "100.46921446440986"
+  },
+  {
+    "stationId": "BL04",
+    "name": "บางขุนนนท์",
+    "nameEng": "Bang Khun Non",
+    "transportationId": "8",
+    "subdistrictId": "102004",
+    "geoLat": "13.763217324890144",
+    "geoLng": "100.47327103704303"
+  },
+  {
+    "stationId": "BL05",
+    "name": "บางยี่ขัน",
+    "nameEng": "Bang Yi Khan",
+    "transportationId": "8",
+    "subdistrictId": "102503",
+    "geoLat": "13.777546963728195",
+    "geoLng": "100.48526026973762"
+  },
+  {
+    "stationId": "BL06",
+    "name": "สิรินธร",
+    "nameEng": "Sirindhorn",
+    "transportationId": "8",
+    "subdistrictId": "102503",
+    "geoLat": "13.78413719659457",
+    "geoLng": "100.49348463563705"
+  },
+  {
+    "stationId": "BL07",
+    "name": "บางพลัด",
+    "nameEng": "Bang Phlat",
+    "transportationId": "8",
+    "subdistrictId": "102502",
+    "geoLat": "13.79255760462822",
+    "geoLng": "100.50497773662762"
+  },
+  {
+    "stationId": "BL08",
+    "name": "บางอ้อ",
+    "nameEng": "Bang O",
+    "transportationId": "8",
+    "subdistrictId": "102502",
+    "geoLat": "13.798857016282433",
+    "geoLng": "100.50970221583698"
+  },
+  {
+    "stationId": "BL09",
+    "name": "บางโพ",
+    "nameEng": "Bang Pho",
+    "transportationId": "8",
+    "subdistrictId": "102901",
+    "geoLat": "13.806461962608697",
+    "geoLng": "100.52105553737543"
+  },
+  {
+    "stationId": "BL10",
+    "name": "เตาปูน",
+    "nameEng": "Tao Poon",
+    "transportationId": "8",
+    "subdistrictId": "102901",
+    "geoLat": "13.806251181026438",
+    "geoLng": "100.53080430385421"
+  },
+  {
+    "stationId": "BL11",
+    "name": "บางซื่อ",
+    "nameEng": "Bang Sue",
+    "transportationId": "8",
+    "subdistrictId": "102901",
+    "geoLat": "13.803108363849914",
+    "geoLng": "100.53916200662879"
+  },
+  {
+    "stationId": "BL12",
+    "name": "กำแพงเพรช",
+    "nameEng": "Kamphaeng Phet",
+    "transportationId": "8",
+    "subdistrictId": "103005",
+    "geoLat": "13.798164065798893",
+    "geoLng": "100.547558649226"
+  },
+  {
+    "stationId": "BL13",
+    "name": "สวนจตุจักร",
+    "nameEng": "Chatuchak Park",
+    "transportationId": "8",
+    "subdistrictId": "103005",
+    "geoLat": "13.802634201491806",
+    "geoLng": "100.5537895043331"
+  },
+  {
+    "stationId": "BL14",
+    "name": "พหลโยธิน",
+    "nameEng": "Phahon Yothin",
+    "transportationId": "8",
+    "subdistrictId": "103005",
+    "geoLat": "13.814375402613187",
+    "geoLng": "100.56012460981002"
+  },
+  {
+    "stationId": "BL15",
+    "name": "ลาดพร้าว",
+    "nameEng": "Lat Phrao",
+    "transportationId": "8",
+    "subdistrictId": "103004",
+    "geoLat": "13.806191889809645",
+    "geoLng": "100.57357769072922"
+  },
+  {
+    "stationId": "BL16",
+    "name": "รัชดาภิเษก",
+    "nameEng": "Ratchadaphisek",
+    "transportationId": "8",
+    "subdistrictId": "102601",
+    "geoLat": "13.799301877960573",
+    "geoLng": "100.57458106133231"
+  },
+  {
+    "stationId": "BL17",
+    "name": "สุทธิสาร",
+    "nameEng": "Sutthisan",
+    "transportationId": "8",
+    "subdistrictId": "102601",
+    "geoLat": "13.789831735021023",
+    "geoLng": "100.57420948068481"
+  },
+  {
+    "stationId": "BL18",
+    "name": "ห้วยขวาง",
+    "nameEng": "Huai Khwang",
+    "transportationId": "8",
+    "subdistrictId": "102601",
+    "geoLat": "13.778609281339378",
+    "geoLng": "100.57361365746218"
+  },
+  {
+    "stationId": "BL19",
+    "name": "ศูนย์วัฒนธรรมแห่งประเทศไทย",
+    "nameEng": "Thailand Cultural Centre",
+    "transportationId": "8",
+    "subdistrictId": "102601",
+    "geoLat": "13.766315395938772",
+    "geoLng": "100.57026601277938"
+  },
+  {
+    "stationId": "BL20",
+    "name": "พระราม 9",
+    "nameEng": "Phra Ram 9",
+    "transportationId": "8",
+    "subdistrictId": "101701",
+    "geoLat": "13.757999460399486",
+    "geoLng": "100.56557848128595"
+  },
+  {
+    "stationId": "BL21",
+    "name": "เพรชบุรี",
+    "nameEng": "Phetchaburi",
+    "transportationId": "8",
+    "subdistrictId": "101702",
+    "geoLat": "13.748825116832812",
+    "geoLng": "100.56310018888564"
+  },
+  {
+    "stationId": "BL22",
+    "name": "สุขุมวิท",
+    "nameEng": "Sukhumvit",
+    "transportationId": "8",
+    "subdistrictId": "103901",
+    "geoLat": "13.738691046347832",
+    "geoLng": "100.56146787755216"
+  },
+  {
+    "stationId": "BL23",
+    "name": "ศูนย์การประชุมแห่งชาติสิริกิติ์",
+    "nameEng": "Queen Sirikit National Convention Center",
+    "transportationId": "8",
+    "subdistrictId": "103301",
+    "geoLat": "13.723279398983436",
+    "geoLng": "100.56007280181026"
+  },
+  {
+    "stationId": "BL24",
+    "name": "คลองเตย",
+    "nameEng": "Khlong Toei",
+    "transportationId": "8",
+    "subdistrictId": "103301",
+    "geoLat": "13.722395580602603",
+    "geoLng": "100.55387331403622"
+  },
+  {
+    "stationId": "BL25",
+    "name": "ลุมพินี",
+    "nameEng": "Lumphini",
+    "transportationId": "8",
+    "subdistrictId": "102803",
+    "geoLat": "13.725956809558339",
+    "geoLng": "100.54570153577502"
+  },
+  {
+    "stationId": "BL26",
+    "name": "สีลม",
+    "nameEng": "Si Lom",
+    "transportationId": "8",
+    "subdistrictId": "100402",
+    "geoLat": "13.72942224492929",
+    "geoLng": "100.5365605650866"
+  },
+  {
+    "stationId": "BL27",
+    "name": "สามย่าน",
+    "nameEng": "Sam Yan",
+    "transportationId": "8",
+    "subdistrictId": "100703",
+    "geoLat": "13.732394461214282",
+    "geoLng": "100.53006029424373"
+  },
+  {
+    "stationId": "BL28",
+    "name": "หัวลำโพง",
+    "nameEng": "Hua Lamphong",
+    "transportationId": "8",
+    "subdistrictId": "100701",
+    "geoLat": "13.73795663824731",
+    "geoLng": "100.51724195465331"
+  },
+  {
+    "stationId": "BL29",
+    "name": "วัดมังกร",
+    "nameEng": "Wat Mangkon",
+    "transportationId": "8",
+    "subdistrictId": "101302",
+    "geoLat": "13.742024992821095",
+    "geoLng": "100.5103155216548"
+  },
+  {
+    "stationId": "BL30",
+    "name": "สามยอด",
+    "nameEng": "Sam Yot",
+    "transportationId": "8",
+    "subdistrictId": "100102",
+    "geoLat": "13.74740455656763",
+    "geoLng": "100.50221957251883"
+  },
+  {
+    "stationId": "BL31",
+    "name": "สนามไชย",
+    "nameEng": "Sanam Chai",
+    "transportationId": "8",
+    "subdistrictId": "101801",
+    "geoLat": "13.743994752016738",
+    "geoLng": "100.49463428542543"
+  },
+  {
+    "stationId": "BL32",
+    "name": "อิสรภาพ",
+    "nameEng": "Itsaraphap",
+    "transportationId": "8",
+    "subdistrictId": "101601",
+    "geoLat": "13.738504180650656",
+    "geoLng": "100.48521267453896"
+  },
+  {
+    "stationId": "BL33",
+    "name": "บางไผ่",
+    "nameEng": "Bang Phai",
+    "transportationId": "8",
+    "subdistrictId": "102209",
+    "geoLat": "13.724698796949715",
+    "geoLng": "100.46523911123427"
+  },
+  {
+    "stationId": "BL34",
+    "name": "ท่าเรือบางหว้า",
+    "nameEng": "Bang Wa Pier",
+    "transportationId": "8",
+    "subdistrictId": "102209",
+    "geoLat": "13.72055298366182",
+    "geoLng": "100.4571986292217"
+  },
+  {
+    "stationId": "BL35",
+    "name": "เพรชเกษม 48",
+    "nameEng": "Phetkasem 48",
+    "transportationId": "8",
+    "subdistrictId": "102201",
+    "geoLat": "13.715643495852428",
+    "geoLng": "100.4456227504867"
+  },
+  {
+    "stationId": "BL36",
+    "name": "ภาษีเจริญ",
+    "nameEng": "Phasi Charoen",
+    "transportationId": "8",
+    "subdistrictId": "102201",
+    "geoLat": "13.712854501431428",
+    "geoLng": "100.43423020268325"
+  },
+  {
+    "stationId": "BL37",
+    "name": "บางแค",
+    "nameEng": "Bang Khae",
+    "transportationId": "8",
+    "subdistrictId": "104002",
+    "geoLat": "13.711914228144721",
+    "geoLng": "100.4223660833503"
+  },
+  {
+    "stationId": "BL38",
+    "name": "หลักสอง",
+    "nameEng": "Lak Song",
+    "transportationId": "8",
+    "subdistrictId": "104002",
+    "geoLat": "13.711001198810953",
+    "geoLng": "100.41000622699018"
+  },
+  {
+    "stationId": "PP01",
+    "name": "คลองบางไผ่",
+    "nameEng": "Khlong Bang Phai",
+    "transportationId": "9",
+    "subdistrictId": "102503",
+    "geoLat": "13.892301215199893",
+    "geoLng": "100.4082347399549"
+  },
+  {
+    "stationId": "PP02",
+    "name": "ตลาดบางใหญ่",
+    "nameEng": "Talad Bang Yai",
+    "transportationId": "9",
+    "subdistrictId": "120408",
+    "geoLat": "13.881082250349912",
+    "geoLng": "100.40923523317544"
+  },
+  {
+    "stationId": "PP03",
+    "name": "สามแยกบางใหญ่",
+    "nameEng": "Sam Yaek Bang Yai",
+    "transportationId": "9",
+    "subdistrictId": "120408",
+    "geoLat": "13.87462472389865",
+    "geoLng": "100.41944534729097"
+  },
+  {
+    "stationId": "PP04",
+    "name": "บางพลู",
+    "nameEng": "Bang Phlu",
+    "transportationId": "9",
+    "subdistrictId": "120403",
+    "geoLat": "13.875642736582137",
+    "geoLng": "100.43393467813281"
+  },
+  {
+    "stationId": "PP05",
+    "name": "บางรักใหญ่",
+    "nameEng": "Bang Rak Yai",
+    "transportationId": "9",
+    "subdistrictId": "120403",
+    "geoLat": "13.876635219137386",
+    "geoLng": "100.44490849168169"
+  },
+  {
+    "stationId": "PP06",
+    "name": "บางรักน้อยท่าอิฐ",
+    "nameEng": "Bang Rak Noi Tha It",
+    "transportationId": "9",
+    "subdistrictId": "120110",
+    "geoLat": "13.87470819378764",
+    "geoLng": "100.45617889945063"
+  },
+  {
+    "stationId": "PP07",
+    "name": "ไทรม้า",
+    "nameEng": "Sai Ma",
+    "transportationId": "9",
+    "subdistrictId": "120109",
+    "geoLat": "13.870583974257402",
+    "geoLng": "100.46666689202357"
+  },
+  {
+    "stationId": "PP08",
+    "name": "สะพานพระนั่งเกล้า",
+    "nameEng": "Phra Nang Klao Bridge",
+    "transportationId": "9",
+    "subdistrictId": "120104",
+    "geoLat": "13.870393427500014",
+    "geoLng": "100.48042898374244"
+  },
+  {
+    "stationId": "PP09",
+    "name": "แยกนนทบุรี 1",
+    "nameEng": "Yaek Nonthaburi 1",
+    "transportationId": "9",
+    "subdistrictId": "120104",
+    "geoLat": "13.865970975316161",
+    "geoLng": "100.49480464423618"
+  },
+  {
+    "stationId": "PP10",
+    "name": "บางกระสอ",
+    "nameEng": "Bang Krasor",
+    "transportationId": "9",
+    "subdistrictId": "120104",
+    "geoLat": "13.861881047056444",
+    "geoLng": "100.50427735276402"
+  },
+  {
+    "stationId": "PP11",
+    "name": "ศูนย์ราชการนนทบุรี",
+    "nameEng": "Nonthaburi Civic Center",
+    "transportationId": "9",
+    "subdistrictId": "500507",
+    "geoLat": "13.8601467410472",
+    "geoLng": "100.51324506138889"
+  },
+  {
+    "stationId": "PP12",
+    "name": "กระทรวงสาธารณสุข",
+    "nameEng": "Ministry of Public Health",
+    "transportationId": "9",
+    "subdistrictId": "500507",
+    "geoLat": "13.848715431241638",
+    "geoLng": "100.51478807121238"
+  },
+  {
+    "stationId": "PP13",
+    "name": "แยกติวานนท์",
+    "nameEng": "Yaek Tiwanon",
+    "transportationId": "9",
+    "subdistrictId": "120103",
+    "geoLat": "13.839570244672485",
+    "geoLng": "100.51495046448692"
+  },
+  {
+    "stationId": "PP14",
+    "name": "วงศ์สว่าง",
+    "nameEng": "Wong Sawang",
+    "transportationId": "9",
+    "subdistrictId": "102902",
+    "geoLat": "13.830364589458032",
+    "geoLng": "100.52665114443678"
+  },
+  {
+    "stationId": "PP15",
+    "name": "บางซ่อน",
+    "nameEng": "Bang Son",
+    "transportationId": "9",
+    "subdistrictId": "102901",
+    "geoLat": "13.820669937306441",
+    "geoLng": "100.53270727007772"
+  },
+  {
+    "stationId": "PP16",
+    "name": "เตาปูน",
+    "nameEng": "Tao Poon",
+    "transportationId": "9",
+    "subdistrictId": "102901",
+    "geoLat": "13.806490974183996",
+    "geoLng": "100.53068271245338"
+  }
+]

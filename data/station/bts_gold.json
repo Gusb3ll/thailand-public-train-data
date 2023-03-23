@@ -1,0 +1,29 @@
+[
+  {
+    "stationId": "G1",
+    "name": "กรุงธนบุรี",
+    "nameEng": "Krung Thon Buri",
+    "transportationId": "7",
+    "subdistrictId": "101804",
+    "geoLat": "13.721193938044461",
+    "geoLng": "100.503749966034"
+  },
+  {
+    "stationId": "G2",
+    "name": "เจริญนคร",
+    "nameEng": "Charoen Nakhon",
+    "transportationId": "7",
+    "subdistrictId": "101804",
+    "geoLat": "13.726671674714577",
+    "geoLng": "100.50907732292256"
+  },
+  {
+    "stationId": "G3",
+    "name": "คลองสาน",
+    "nameEng": "Khlong San",
+    "transportationId": "7",
+    "subdistrictId": "101802",
+    "geoLat": "13.730456353504387",
+    "geoLng": "100.5076052495556"
+  }
+]
