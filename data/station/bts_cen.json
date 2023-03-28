@@ -1,0 +1,11 @@
+[
+  {
+    "stationId": "CEN",
+    "name": "สยาม",
+    "nameEng": "siam",
+    "transportationId": "5",
+    "subdistrictId": "100703",
+    "geoLat": "13.745853021832763",
+    "geoLng": "100.53409458820424"
+  }
+]

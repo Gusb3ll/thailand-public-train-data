@@ -1,0 +1,11 @@
+[
+  {
+    "stationId": "W1",
+    "name": "สนามกีฬาเเห่งชาติ",
+    "nameEng": "National Stadium",
+    "transportationId": "6",
+    "subdistrictId": "100702",
+    "geoLat": "13.746670999230194",
+    "geoLng": "100.5290515399541"
+  }
+]

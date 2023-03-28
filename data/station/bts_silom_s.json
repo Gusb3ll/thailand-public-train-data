@@ -1,0 +1,110 @@
+[
+  {
+    "stationId": "S1",
+    "name": "ราชดำริ",
+    "nameEng": "Ratchadamri",
+    "transportationId": "6",
+    "subdistrictId": "100704",
+    "geoLat": "13.739653868626046",
+    "geoLng": "100.53952796814953"
+  },
+  {
+    "stationId": "S2",
+    "name": "ศาลาเเดง",
+    "nameEng": "Sala Daeng",
+    "transportationId": "6",
+    "subdistrictId": "100402",
+    "geoLat": "13.728687365842067",
+    "geoLng": "100.53410615745476"
+  },
+  {
+    "stationId": "S3",
+    "name": "ช่องนนทรี",
+    "nameEng": "Chong Nonsi",
+    "transportationId": "6",
+    "subdistrictId": "100402",
+    "geoLat": "13.724106467759407",
+    "geoLng": "100.52943246607377"
+  },
+  {
+    "stationId": "S4",
+    "name": "เซนต์หลุยส์",
+    "nameEng": "Saint Louis",
+    "transportationId": "6",
+    "subdistrictId": "100402",
+    "geoLat": "13.721305913590752",
+    "geoLng": "100.52679238745989"
+  },
+  {
+    "stationId": "S5",
+    "name": "สุรศักดิ์",
+    "nameEng": "Surasak",
+    "transportationId": "6",
+    "subdistrictId": "102802",
+    "geoLat": "13.719537125325928",
+    "geoLng": "100.52145153904159"
+  },
+  {
+    "stationId": "S6",
+    "name": "สะพานตากสิน",
+    "nameEng": "Saphan Taksin",
+    "transportationId": "6",
+    "subdistrictId": "102802",
+    "geoLat": "13.719002878876935",
+    "geoLng": "100.51397509590281"
+  },
+  {
+    "stationId": "S7",
+    "name": "กรุงธนบุรี",
+    "nameEng": "Krung Thon Buri",
+    "transportationId": "6",
+    "subdistrictId": "101804",
+    "geoLat": "13.721115982557249",
+    "geoLng": "100.5027129343507"
+  },
+  {
+    "stationId": "S8",
+    "name": "วงเวียนใหญ่",
+    "nameEng": "Wongwian Yai",
+    "transportationId": "6",
+    "subdistrictId": "101804",
+    "geoLat": "13.721342669730914",
+    "geoLng": "100.4951375507303"
+  },
+  {
+    "stationId": "S9",
+    "name": "โพธิ์นิมิตร",
+    "nameEng": "Pho Nimit",
+    "transportationId": "6",
+    "subdistrictId": "101504",
+    "geoLat": "13.719358060183657",
+    "geoLng": "100.48587065727378"
+  },
+  {
+    "stationId": "S10",
+    "name": "ตลาดพลู",
+    "nameEng": "Talat Phlu",
+    "transportationId": "6",
+    "subdistrictId": "101506",
+    "geoLat": "13.714400461102041",
+    "geoLng": "100.47680359693724"
+  },
+  {
+    "stationId": "S11",
+    "name": "วุฒากาศ",
+    "nameEng": "Wutthakat",
+    "transportationId": "6",
+    "subdistrictId": "101505",
+    "geoLat": "13.713278450460455",
+    "geoLng": "100.46879708228315"
+  },
+  {
+    "stationId": "S12",
+    "name": "บางหว้า",
+    "nameEng": "Bang Wa",
+    "transportationId": "6",
+    "subdistrictId": "102209",
+    "geoLat": "13.720728925451862",
+    "geoLng": "100.45780458752814"
+  }
+]
